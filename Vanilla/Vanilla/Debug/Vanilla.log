@@ -1,0 +1,7 @@
+﻿  Vanilla.vcxproj -> C:\Users\87927\OneDrive\Documents\游戏设计参考资料\图形学\opengl\Graphic Projects\Vanilla\Debug\Vanilla.exe
+  Microsoft (R) COFF/PE Editor Version 14.29.30147.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+C:\Users\87927\OneDrive\Documents\游戏设计参考资料\图形学\opengl\Graphic : fatal error LNK1342: failed to save a backup copy of the binary file to be edited
+D:\Tools\Visual Studio 2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: The command "editbin /subsystem:console C:\Users\87927\OneDrive\Documents\游戏设计参考资料\图形学\opengl\Graphic Projects\Vanilla\Debug\Vanilla.exe
+D:\Tools\Visual Studio 2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: :VCEnd" exited with code 1342.
